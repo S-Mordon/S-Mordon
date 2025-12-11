@@ -8,7 +8,11 @@
 src="https://sptech.school/wp-content/uploads/2025/04/cropped-favicon-32x32.png"
 width="16"
 alt=""
+<<<<<<< HEAD
 style="vertical-align:middle; margin-right:2px;"/> Tecnólogo em Análise e Desenvolvimento de Sistemas – Sptech School 2026/1
+=======
+style="vertical-align:middle; margin-right:2px;"/> Tecnólogo em Análise e Desenvolvimento de Sistemas – Sptech School 2026/2
+>>>>>>> 9a06778fe31a37d9b66ef84d34f3bce423e7d6a7
 
 Ola, me chamo fernando henrique, tenho lorem impsum
 
@@ -17,6 +21,7 @@ Ola, me chamo fernando henrique, tenho lorem impsum
 
 ## 👾 Linguagens e Tecnologias
 
+<<<<<<< HEAD
 ### 🎨 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
