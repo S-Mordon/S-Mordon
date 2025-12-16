@@ -18,7 +18,11 @@ Tenho interesse tanto em **frontend** quanto em **backend**, buscando desenvolve
 Aqui no GitHub compartilho meus estudos, projetos acadêmicos e iniciativas pessoais, sempre buscando aprimorar minhas habilidades técnicas e crescer como desenvolvedor.
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=1000&color=FF4081&background=0A0A0A00&width=435&lines=Hello+World...;Start+Coding)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=1000&color=9745f5&background=0A0A0A00&width=435&lines=hello+world...;start+coding&center=true&vCenter=true"
+  alt="Typing SVG"
+  />
+</p>
 
 ## 👾 Linguagens e Tecnologias
 
@@ -68,11 +72,11 @@ Aqui no GitHub compartilho meus estudos, projetos acadêmicos e iniciativas pess
 align="left"
 height="180"
 style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=s-mordon&hide=contribs,prs&theme=dracula&include_all_commits=true&locale=pt-br"
+src="https://github-readme-stats.vercel.app/api?username=s-mordon&hide=contribs,prs&theme=midnight-purple&locale=pt-br"
 />
 <img
 align="left"
 height="180"
 style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-mordon&theme=dracula&layout-compact&custom_title=Tecnologias"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-mordon&theme=midnight-purple&layout-compact&custom_title=Tecnologias"
 />
