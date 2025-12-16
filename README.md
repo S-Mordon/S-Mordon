@@ -24,6 +24,7 @@ Aqui no GitHub compartilho meus estudos, projetos acadêmicos e iniciativas pess
 
 ### 🎨 Frontend
 
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -33,7 +34,7 @@ Aqui no GitHub compartilho meus estudos, projetos acadêmicos e iniciativas pess
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
+</p>
 ---
 
 ### 🖥 Backend
