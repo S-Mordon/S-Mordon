@@ -17,7 +17,17 @@ Tenho interesse tanto em **frontend** quanto em **backend**, buscando desenvolve
 
 Aqui no GitHub compartilho meus estudos, projetos acadêmicos e iniciativas pessoais, sempre buscando aprimorar minhas habilidades técnicas e crescer como desenvolvedor.
 
+<p>
+  <a href="https://www.linkedin.com/in/fernando-soares-955a9419b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fernando.321.www@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=1000&color=9745f5&background=0A0A0A00&width=435&lines=hello+world...;start+coding&center=true&vCenter=true"
   alt="Typing SVG"
@@ -54,6 +64,9 @@ Aqui no GitHub compartilho meus estudos, projetos acadêmicos e iniciativas pess
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### 🛠 Infra / DevOps
@@ -68,15 +81,10 @@ Aqui no GitHub compartilho meus estudos, projetos acadêmicos e iniciativas pess
 <br/>
 <br/>
 
-<img
-align="left"
-height="180"
-style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=s-mordon&hide=contribs,prs&theme=midnight-purple&locale=pt-br"
-/>
-<img
-align="left"
-height="180"
-style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-mordon&theme=midnight-purple&layout-compact&custom_title=Tecnologias"
-/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-mordon&theme=midnight_purple" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=s-mordon&theme=midnight-purple&locale=pt_BR" />
+</p>
